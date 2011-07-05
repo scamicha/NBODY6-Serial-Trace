@@ -1,0 +1,22 @@
+#!/bin/bash
+
+SETUPDIR=../SETUP/
+DATADIR=../RUNDATA/
+INPUT=testinput
+OUTPUT=vampiroutput
+
+export OMP_NUM_THREADS=2
+export GPU_LIST="0"
+export VT_BUFFER_SIZE=50M
+export VT_MAX_FLUSHES=1
+export VT_FILTER_SPEC=${SETUPDIR}"filter.txt"
+export VT_CUDARTTRACE=yes
+export VT_CUDATRACE_IDLE=no
+export VT_VERBOSE=2
+#export VT_MODE=STAT
+export VT_CUDATRACE_KERNEL=no
+export VT_CUDATRACE_MEMCPYASYNC=no
+export VT_CUDATRACE_BUFFER_SIZE=32M
+ 
+cd $DATADIR
+${SETUPDIR}nbody6.gpu < ${SETUPDIR}${INPUT} > ${SETUPDIR}${OUTPUT}

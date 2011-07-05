@@ -1,0 +1,76 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+VampirTrace: Thread object #0 created, total number is 1
+VampirTrace: Collecting symbols by 'nm'
+VampirTrace: Executing /usr/bin/nm -B --demangle --line-numbers /nics/c/home/scamicha/VAMPIRTESTRUN/SETUP/nbody6.gpu
+VampirTrace: Thread object #1 created, total number is 2
+VampirTrace: [GPU] Created thread 'CUDA[0]' with id: 1
+VampirTrace: [CUDART] Finalize registered!
+gpupot: 0.571233 sec
+VampirTrace: Dynamic thread creation. Thread #2
+VampirTrace: Thread object #2 created, total number is 3
+gpupot: 0.029135 sec
+**************************** 
+Opening GPUIRR lib. SSE ver. 
+ nmax = 16010, lmax = 500
+**************************** 
+gpupot: 0.033208 sec
+gpupot: 0.033248 sec
+gpupot: 0.033147 sec
+gpupot: 0.033227 sec
+gpupot: 0.032930 sec
+gpupot: 0.032858 sec
+gpupot: 0.033111 sec
+gpupot: 0.033209 sec
+gpupot: 0.033122 sec
+gpupot: 0.033203 sec
+gpupot: 0.033081 sec
+gpupot: 0.032798 sec
+gpupot: 0.033234 sec
+gpupot: 0.032997 sec
+gpupot: 0.032931 sec
+gpupot: 0.033060 sec
+gpupot: 0.033365 sec
+gpupot: 0.033115 sec
+gpupot: 0.033120 sec
+gpupot: 0.033014 sec
+gpupot: 0.033196 sec
+gpupot: 0.032978 sec
+gpupot: 0.032972 sec
+At line 169 of file escape.f
+Fortran runtime error: File exists
+VampirTrace: [CUDART] Finalizing wrapper.
+VampirTrace: [GPU] vt_gpu_finalize() done
+VampirTrace: [CUDART] Cleanup device 0 (tid: 0)
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a8110.15030 id 1] for generation [buffer 36700136 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a8110.15030 id 1]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a8110.15030 id 1]
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a8110.15030 id 2] for generation [buffer 5242856 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a8110.15030 id 2]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a8110.15030 id 2]
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a8110.15030 id 3] for generation [buffer 5242856 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a8110.15030 id 3]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a8110.15030 id 3]
+VampirTrace: Wrote unify control file ./nbody6.gpu.uctl
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a8110.15030.1.def.z to ./nbody6.gpu.1.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a8110.15030.1.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a8110.15030.1.events.z to ./nbody6.gpu.1.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a8110.15030.1.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a8110.15030.1.marker.z to ./nbody6.gpu.1.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a8110.15030.1.marker.z
+VampirTrace: Thread object #0 deleted, leaving 2
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a8110.15030.2.def.z to ./nbody6.gpu.10001.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a8110.15030.2.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a8110.15030.2.events.z to ./nbody6.gpu.10001.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a8110.15030.2.events.z
+VampirTrace: Thread object #1 deleted, leaving 1
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a8110.15030.3.def.z to ./nbody6.gpu.20001.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a8110.15030.3.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a8110.15030.3.events.z to ./nbody6.gpu.20001.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a8110.15030.3.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a8110.15030.3.marker.z to ./nbody6.gpu.20001.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a8110.15030.3.marker.z
+VampirTrace: Thread object #2 deleted, leaving 0
+VampirTrace: Starting trace unification
+VampirTrace: Executing /nics/c/home/scamicha/vampir/bin/vtunify ./nbody6.gpu -v -p
+vtunify: Warning: Progress not yet implemented -- -p
