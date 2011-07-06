@@ -1,0 +1,330 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+VampirTrace: Thread object #0 created, total number is 1
+VampirTrace: Collecting symbols by 'nm'
+VampirTrace: Executing /usr/bin/nm -B --demangle --line-numbers /nics/c/home/scamicha/VAMPIRTESTRUN/SETUP/nbody6.gpu
+VampirTrace: WARNING: [CUDART] Current CUDA buffer size requires 1677721 CUDA events.
+The recommended max. CUDA buffer size is 2097152. (export VT_CUDA_BUFFER_SIZE=2097152)
+VampirTrace: [CUDART] Current CUDA buffer size: 33554432 bytes 
+(Kernel: 40 bytes, MemcpyAsync: 40 bytes, Pre-created events: 838860)
+VampirTrace: Thread object #1 created, total number is 2
+VampirTrace: [GPU] Created thread 'CUDA[0]' with id: 1
+VampirTrace: [CUDART] Finalize registered!
+gpupot: 6.500086 sec
+VampirTrace: Dynamic thread creation. Thread #2
+VampirTrace: Thread object #2 created, total number is 3
+gpupot: 0.028992 sec
+**************************** 
+Opening GPUIRR lib. SSE ver. 
+ nmax = 16010, lmax = 500
+**************************** 
+gpupot: 0.033235 sec
+gpupot: 0.032976 sec
+gpupot: 0.033254 sec
+gpupot: 0.033031 sec
+gpupot: 0.033154 sec
+gpupot: 0.032909 sec
+gpupot: 0.032777 sec
+gpupot: 0.032985 sec
+gpupot: 0.031205 sec
+gpupot: 0.033077 sec
+gpupot: 0.032819 sec
+gpupot: 0.032851 sec
+gpupot: 0.032901 sec
+gpupot: 0.032902 sec
+gpupot: 0.032885 sec
+gpupot: 0.032872 sec
+gpupot: 0.033036 sec
+gpupot: 0.033028 sec
+gpupot: 0.032948 sec
+gpupot: 0.032910 sec
+gpupot: 0.032968 sec
+gpupot: 0.032880 sec
+gpupot: 0.032890 sec
+gpupot: 0.032815 sec
+gpupot: 0.032951 sec
+gpupot: 0.033044 sec
+gpupot: 0.032795 sec
+gpupot: 0.032949 sec
+gpupot: 0.032852 sec
+gpupot: 0.033028 sec
+gpupot: 0.032955 sec
+gpupot: 0.033050 sec
+gpupot: 0.032968 sec
+gpupot: 0.033070 sec
+gpupot: 0.032982 sec
+gpupot: 0.033006 sec
+gpupot: 0.033024 sec
+gpupot: 0.032814 sec
+gpupot: 0.033045 sec
+gpupot: 0.032887 sec
+gpupot: 0.033039 sec
+gpupot: 0.033090 sec
+gpupot: 0.032872 sec
+gpupot: 0.032937 sec
+gpupot: 0.032926 sec
+gpupot: 0.033034 sec
+gpupot: 0.032827 sec
+gpupot: 0.032961 sec
+gpupot: 0.033154 sec
+gpupot: 0.032968 sec
+gpupot: 0.032831 sec
+gpupot: 0.032718 sec
+gpupot: 0.032725 sec
+gpupot: 0.033140 sec
+gpupot: 0.032937 sec
+gpupot: 0.032889 sec
+gpupot: 0.033112 sec
+gpupot: 0.032911 sec
+gpupot: 0.032958 sec
+gpupot: 0.032855 sec
+gpupot: 0.033000 sec
+gpupot: 0.032971 sec
+gpupot: 0.033001 sec
+gpupot: 0.032729 sec
+gpupot: 0.032910 sec
+gpupot: 0.032963 sec
+gpupot: 0.032943 sec
+gpupot: 0.032828 sec
+gpupot: 0.032783 sec
+gpupot: 0.033018 sec
+gpupot: 0.033005 sec
+gpupot: 0.032838 sec
+gpupot: 0.042216 sec
+gpupot: 0.032991 sec
+gpupot: 0.032946 sec
+gpupot: 0.032937 sec
+gpupot: 0.032914 sec
+gpupot: 0.033133 sec
+gpupot: 0.032794 sec
+gpupot: 0.032916 sec
+gpupot: 0.033055 sec
+gpupot: 0.032954 sec
+gpupot: 0.032757 sec
+gpupot: 0.032951 sec
+gpupot: 0.032913 sec
+gpupot: 0.032899 sec
+gpupot: 0.032864 sec
+gpupot: 0.032882 sec
+gpupot: 0.033054 sec
+gpupot: 0.032742 sec
+gpupot: 0.032936 sec
+gpupot: 0.032891 sec
+gpupot: 0.033082 sec
+gpupot: 0.032993 sec
+gpupot: 0.032918 sec
+gpupot: 0.032769 sec
+gpupot: 0.032841 sec
+gpupot: 0.032780 sec
+gpupot: 0.033067 sec
+gpupot: 0.032994 sec
+gpupot: 0.032939 sec
+gpupot: 0.033201 sec
+gpupot: 0.032842 sec
+gpupot: 0.033062 sec
+gpupot: 0.032841 sec
+gpupot: 0.032862 sec
+gpupot: 0.032882 sec
+gpupot: 0.032939 sec
+gpupot: 0.032945 sec
+gpupot: 0.032953 sec
+gpupot: 0.032892 sec
+gpupot: 0.032792 sec
+gpupot: 0.032899 sec
+gpupot: 0.032967 sec
+gpupot: 0.033029 sec
+gpupot: 0.033152 sec
+gpupot: 0.032915 sec
+gpupot: 0.032862 sec
+gpupot: 0.033075 sec
+gpupot: 0.032886 sec
+gpupot: 0.033158 sec
+gpupot: 0.032809 sec
+gpupot: 0.032987 sec
+gpupot: 0.033177 sec
+gpupot: 0.032891 sec
+gpupot: 0.032912 sec
+gpupot: 0.032851 sec
+gpupot: 0.033069 sec
+gpupot: 0.032926 sec
+gpupot: 0.033020 sec
+gpupot: 0.032883 sec
+gpupot: 0.033020 sec
+gpupot: 0.032976 sec
+gpupot: 0.032945 sec
+gpupot: 0.032860 sec
+gpupot: 0.033036 sec
+gpupot: 0.033134 sec
+gpupot: 0.032765 sec
+gpupot: 0.033024 sec
+gpupot: 0.032731 sec
+gpupot: 0.032989 sec
+gpupot: 0.032758 sec
+gpupot: 0.032888 sec
+gpupot: 0.032759 sec
+gpupot: 0.032830 sec
+gpupot: 0.033053 sec
+gpupot: 0.033049 sec
+gpupot: 0.032878 sec
+gpupot: 0.032872 sec
+gpupot: 0.032780 sec
+gpupot: 0.032703 sec
+gpupot: 0.032774 sec
+gpupot: 0.032869 sec
+gpupot: 0.032972 sec
+gpupot: 0.032910 sec
+gpupot: 0.032788 sec
+gpupot: 0.033079 sec
+gpupot: 0.033137 sec
+gpupot: 0.032765 sec
+gpupot: 0.032855 sec
+gpupot: 0.033019 sec
+gpupot: 0.033019 sec
+gpupot: 0.032809 sec
+gpupot: 0.032941 sec
+gpupot: 0.032888 sec
+gpupot: 0.032783 sec
+gpupot: 0.032796 sec
+gpupot: 0.032809 sec
+gpupot: 0.032543 sec
+gpupot: 0.032946 sec
+gpupot: 0.032920 sec
+gpupot: 0.032993 sec
+gpupot: 0.032831 sec
+gpupot: 0.032879 sec
+gpupot: 0.032768 sec
+gpupot: 0.032937 sec
+gpupot: 0.032753 sec
+gpupot: 0.032572 sec
+gpupot: 0.032634 sec
+gpupot: 0.032785 sec
+gpupot: 0.032680 sec
+gpupot: 0.032841 sec
+gpupot: 0.032931 sec
+gpupot: 0.032716 sec
+gpupot: 0.033002 sec
+gpupot: 0.032832 sec
+gpupot: 0.032932 sec
+gpupot: 0.033012 sec
+gpupot: 0.032799 sec
+gpupot: 0.033002 sec
+gpupot: 0.032931 sec
+gpupot: 0.032874 sec
+gpupot: 0.032827 sec
+gpupot: 0.032798 sec
+gpupot: 0.032965 sec
+gpupot: 0.032974 sec
+gpupot: 0.032878 sec
+gpupot: 0.032730 sec
+gpupot: 0.033050 sec
+gpupot: 0.032718 sec
+gpupot: 0.032737 sec
+gpupot: 0.032659 sec
+gpupot: 0.032876 sec
+gpupot: 0.032779 sec
+gpupot: 0.032680 sec
+gpupot: 0.032678 sec
+gpupot: 0.032879 sec
+gpupot: 0.032890 sec
+gpupot: 0.032774 sec
+gpupot: 0.032698 sec
+gpupot: 0.032719 sec
+gpupot: 0.032763 sec
+gpupot: 0.032821 sec
+gpupot: 0.032692 sec
+gpupot: 0.032668 sec
+gpupot: 0.032440 sec
+gpupot: 0.032704 sec
+gpupot: 0.032766 sec
+gpupot: 0.032658 sec
+gpupot: 0.032431 sec
+gpupot: 0.032705 sec
+gpupot: 0.032656 sec
+gpupot: 0.032738 sec
+gpupot: 0.032736 sec
+gpupot: 0.032505 sec
+gpupot: 0.032515 sec
+gpupot: 0.032634 sec
+gpupot: 0.032824 sec
+gpupot: 0.032799 sec
+gpupot: 0.032616 sec
+gpupot: 0.032729 sec
+gpupot: 0.032731 sec
+gpupot: 0.032673 sec
+gpupot: 0.032745 sec
+gpupot: 0.032516 sec
+gpupot: 0.032750 sec
+gpupot: 0.032693 sec
+gpupot: 0.032602 sec
+gpupot: 0.032748 sec
+gpupot: 0.032675 sec
+gpupot: 0.032759 sec
+gpupot: 0.032796 sec
+gpupot: 0.032926 sec
+gpupot: 0.032788 sec
+gpupot: 0.032630 sec
+gpupot: 0.032604 sec
+gpupot: 0.032854 sec
+gpupot: 0.032801 sec
+gpupot: 0.032779 sec
+gpupot: 0.032597 sec
+gpupot: 0.032604 sec
+gpupot: 0.032711 sec
+gpupot: 0.032597 sec
+gpupot: 0.032681 sec
+gpupot: 0.032570 sec
+gpupot: 0.032725 sec
+gpupot: 0.032567 sec
+gpupot: 0.032465 sec
+gpupot: 0.032751 sec
+gpupot: 0.032748 sec
+gpupot: 0.032758 sec
+gpupot: 0.030939 sec
+gpupot: 0.032708 sec
+gpupot: 0.032620 sec
+gpupot: 0.032790 sec
+gpupot: 0.032716 sec
+gpupot: 0.032636 sec
+gpupot: 0.032470 sec
+gpupot: 0.032595 sec
+gpupot: 0.032789 sec
+gpupot: 0.032622 sec
+gpupot: 0.032713 sec
+gpupot: 0.032724 sec
+VampirTrace: [CUDART] Finalizing wrapper.
+VampirTrace: [GPU] vt_gpu_finalize() done
+VampirTrace: [CUDART] Cleanup device 0 (tid: 0)
+VampirTrace: Error check before event destroy
+VampirTrace: WARNING: [CUDA <vt_cudart.c>:752] setting the device when a process is active is not allowed
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a7a10.12838 id 1] for generation [buffer 36700136 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a7a10.12838 id 1]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a7a10.12838 id 1]
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a7a10.12838 id 2] for generation [buffer 5242856 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a7a10.12838 id 2]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a7a10.12838 id 2]
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a7a10.12838 id 3] for generation [buffer 5242856 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a7a10.12838 id 3]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a7a10.12838 id 3]
+VampirTrace: Wrote unify control file ./nbody6.gpu.uctl
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a7a10.12838.1.def.z to ./nbody6.gpu.1.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a7a10.12838.1.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a7a10.12838.1.events.z to ./nbody6.gpu.1.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a7a10.12838.1.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a7a10.12838.1.marker.z to ./nbody6.gpu.1.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a7a10.12838.1.marker.z
+VampirTrace: Thread object #0 deleted, leaving 2
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a7a10.12838.2.def.z to ./nbody6.gpu.10001.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a7a10.12838.2.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a7a10.12838.2.events.z to ./nbody6.gpu.10001.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a7a10.12838.2.events.z
+VampirTrace: Thread object #1 deleted, leaving 1
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a7a10.12838.3.def.z to ./nbody6.gpu.20001.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a7a10.12838.3.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a7a10.12838.3.events.z to ./nbody6.gpu.20001.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a7a10.12838.3.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a7a10.12838.3.marker.z to ./nbody6.gpu.20001.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a7a10.12838.3.marker.z
+VampirTrace: Thread object #2 deleted, leaving 0
+VampirTrace: Starting trace unification
+VampirTrace: Executing /nics/c/home/scamicha/vampir/bin/vtunify ./nbody6.gpu -v -p
+vtunify: Warning: Progress not yet implemented -- -p
