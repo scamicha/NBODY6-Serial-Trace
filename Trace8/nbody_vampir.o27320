@@ -1,0 +1,155 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+VampirTrace: Thread object #0 created, total number is 1
+VampirTrace: Collecting symbols by 'nm'
+VampirTrace: Executing /usr/bin/nm -B --demangle --line-numbers /nics/c/home/scamicha/VAMPIRTESTRUN/SETUP/nbody6.gpu
+VampirTrace: [CUDART] Current CUDA buffer size: 32768 bytes 
+(Kernel: 40 bytes, MemcpyAsync: 40 bytes, Pre-created events: 819)
+VampirTrace: Dynamic thread creation. Thread #1
+VampirTrace: Dynamic thread creation. Thread #2
+VampirTrace: Thread object #1 created, total number is 3
+VampirTrace: Thread object #2 created, total number is 3
+VampirTrace: Thread object #3 created, total number is 4
+VampirTrace: [GPU] Created thread 'CUDA[0]' with id: 3
+VampirTrace: [CUDART] Finalize registered!
+gpupot: 0.232140 sec
+VampirTrace: Dynamic thread creation. Thread #4
+VampirTrace: Thread object #4 created, total number is 5
+VampirTrace: Dynamic thread creation. Thread #5
+VampirTrace: Dynamic thread creation. Thread #6
+VampirTrace: Thread object #5 created, total number is 7
+VampirTrace: Thread object #6 created, total number is 7
+gpupot: 0.029445 sec
+**************************** 
+Opening GPUIRR lib. SSE ver. 
+ nmax = 16010, lmax = 500
+**************************** 
+VampirTrace: Thread object #7 created, total number is 8
+VampirTrace: [GPU] Created thread 'CUDA[1]' with id: 7
+VampirTrace: Thread object #8 created, total number is 9
+VampirTrace: [GPU] Created thread 'CUDA[2]' with id: 8
+gpupot: 0.035012 sec
+gpupot: 0.034770 sec
+gpupot: 0.034634 sec
+gpupot: 0.034824 sec
+gpupot: 0.034620 sec
+gpupot: 0.034812 sec
+gpupot: 0.034898 sec
+gpupot: 0.034960 sec
+gpupot: 0.034664 sec
+gpupot: 0.034677 sec
+gpupot: 0.034669 sec
+gpupot: 0.034812 sec
+gpupot: 0.034758 sec
+gpupot: 0.034641 sec
+gpupot: 0.034833 sec
+gpupot: 0.034754 sec
+gpupot: 0.034865 sec
+gpupot: 0.034547 sec
+gpupot: 0.034722 sec
+gpupot: 0.034875 sec
+gpupot: 0.034724 sec
+gpupot: 0.034817 sec
+At line 169 of file escape.f
+Fortran runtime error: File exists
+VampirTrace: [CUDART] Finalizing wrapper.
+VampirTrace: [GPU] vt_gpu_finalize() done
+VampirTrace: [CUDART] Cleanup device 2 (tid: 0)
+VampirTrace: [CUDART] Cleanup device 1 (tid: 0)
+VampirTrace: [CUDART] Cleanup device 0 (tid: 0)
+VampirTrace: Error check before event destroy
+VampirTrace: WARNING: [CUDA <vt_cudart.c>:752] setting the device when a process is active is not allowed
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 1] for generation [buffer -1288490217 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 1]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 1]
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 2] for generation [buffer 429496705 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 2]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 2]
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 3] for generation [buffer 429496705 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 3]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 3]
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 4] for generation [buffer 429496705 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 4]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 4]
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 5] for generation [buffer 429496705 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 5]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 5]
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 6] for generation [buffer 429496705 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 6]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 6]
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 7] for generation [buffer 429496705 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 7]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 7]
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 8] for generation [buffer 429496705 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 8]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 8]
+VampirTrace: Opened OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 9] for generation [buffer 429496705 bytes]
+VampirTrace: Flushed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 9]
+VampirTrace: Closed OTF writer stream [namestub /tmp/nbody6.gpu.270a5610.2771 id 9]
+VampirTrace: Wrote unify control file ./nbody6.gpu.uctl
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.1.def.z to ./nbody6.gpu.1.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.1.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.1.events.z to ./nbody6.gpu.1.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.1.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.1.marker.z to ./nbody6.gpu.1.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.1.marker.z
+VampirTrace: Thread object #0 deleted, leaving 8
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.2.def.z to ./nbody6.gpu.10001.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.2.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.2.events.z to ./nbody6.gpu.10001.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.2.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.2.marker.z to ./nbody6.gpu.10001.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.2.marker.z
+VampirTrace: Thread object #1 deleted, leaving 7
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.3.def.z to ./nbody6.gpu.20001.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.3.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.3.events.z to ./nbody6.gpu.20001.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.3.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.3.marker.z to ./nbody6.gpu.20001.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.3.marker.z
+VampirTrace: Thread object #2 deleted, leaving 6
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.4.def.z to ./nbody6.gpu.30001.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.4.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.4.events.z to ./nbody6.gpu.30001.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.4.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.4.marker.z to ./nbody6.gpu.30001.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.4.marker.z
+VampirTrace: Thread object #3 deleted, leaving 5
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.5.def.z to ./nbody6.gpu.40001.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.5.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.5.events.z to ./nbody6.gpu.40001.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.5.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.5.marker.z to ./nbody6.gpu.40001.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.5.marker.z
+VampirTrace: Thread object #4 deleted, leaving 4
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.6.def.z to ./nbody6.gpu.50001.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.6.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.6.events.z to ./nbody6.gpu.50001.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.6.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.6.marker.z to ./nbody6.gpu.50001.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.6.marker.z
+VampirTrace: Thread object #5 deleted, leaving 3
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.7.def.z to ./nbody6.gpu.60001.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.7.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.7.events.z to ./nbody6.gpu.60001.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.7.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.7.marker.z to ./nbody6.gpu.60001.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.7.marker.z
+VampirTrace: Thread object #6 deleted, leaving 2
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.8.def.z to ./nbody6.gpu.70001.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.8.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.8.events.z to ./nbody6.gpu.70001.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.8.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.8.marker.z to ./nbody6.gpu.70001.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.8.marker.z
+VampirTrace: Thread object #7 deleted, leaving 1
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.9.def.z to ./nbody6.gpu.80001.def.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.9.def.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.9.events.z to ./nbody6.gpu.80001.events.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.9.events.z
+VampirTrace: Copied trace file /tmp/nbody6.gpu.270a5610.2771.9.marker.z to ./nbody6.gpu.80001.marker.z
+VampirTrace: Removed trace file /tmp/nbody6.gpu.270a5610.2771.9.marker.z
+VampirTrace: Thread object #8 deleted, leaving 0
+VampirTrace: Starting trace unification
+VampirTrace: Executing /nics/c/home/scamicha/vampir/bin/vtunify ./nbody6.gpu -v -p
+vtunify: Warning: Progress not yet implemented -- -p
